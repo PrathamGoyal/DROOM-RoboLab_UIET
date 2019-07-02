@@ -1,5 +1,5 @@
-# DROOM-RoboLab_UIET
-All the work done by Pratham Goyal in DROOM project under Tinkering lab UIET.
+# SmartParking_IPD-RoboLab_UIET
+All the work that will be done by me in this project under Robotics lab UIET.
 
 My task is to learn eagle PCB designing software and make a PCB design of my IPD project before 15th July. Following is my timeline for the project. 
 1. Till 5th July I will learn about all the basics required for making PCB design using Eagle.
